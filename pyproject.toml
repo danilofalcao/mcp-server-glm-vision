@@ -1,6 +1,6 @@
 [project]
 name = "mcp-server-glm-vision"
-version = "1.0.0"
+version = "1.0.1"
 description = "MCP Server for GLM-4.5V integration with Claude Code"
 authors = [
     {name = "Danilo Falcão", email = "danilo@falcao.org"},

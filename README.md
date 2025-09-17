@@ -70,7 +70,7 @@ Set these environment variables in your `.env` file:
 
 ### Available Tools
 
-#### `glm-analyze-image`
+#### `glm-vision`
 Analyze an image file using GLM-4.5V's vision capabilities. Supports both local files and URLs.
 
 **Parameters:**
@@ -82,7 +82,7 @@ Analyze an image file using GLM-4.5V's vision capabilities. Supports both local 
 
 **Example:**
 ```
-Use the glm-analyze-image tool with:
+Use the glm-vison tool with:
 - image_path: "/path/to/your/image.jpg"
 - prompt: "Describe what you see in this image"
 ```
